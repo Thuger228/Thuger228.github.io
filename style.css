@@ -32,9 +32,7 @@
 /*-------------------------------------
 [ 1. Theme default CSS ]
 ---------------------------------------*/
-body {
-    background:  url(img/wall.jpg); /* Цвет фона и путь к файлу */
-     }
+
 html, body {height: 100%;}
 .floatleft {float:left}
 .floatright {float:right}
@@ -820,7 +818,6 @@ i.pe-7s-back {transform: rotateY(-180deg);}
   color: #fff;
 }
 .product-img > a {
-    background: #f5f5f5 none repeat scroll 0 0;
     display: block;
 }
 .pro-type {
