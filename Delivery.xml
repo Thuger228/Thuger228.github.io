@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='style.xsl'?>
+<DW>
+
+<city>
+<name>Grono</name>
+<price>$5.95</price>
+<description>USPS Extreme Delivery</description>
+</city>
+
+<city>
+<name>Mogilev</name>
+<price>$8.95</price>
+<description>USPS Primaty Delivey</description>
+</city>
+
+<city>
+<name>Vitebsk</name>
+<price>$8.95</price>
+<description>UTFS Express Delivey</description>
+</city>
+
+<city>
+<name>Brest</name>
+<price>$1.95</price>
+<description>UTFS Econom Delivery</description>
+</city>
+
+
+</DW>
